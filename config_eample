@@ -1,0 +1,13 @@
+[mail_box]
+mail_ssl = imap.qq.com
+mail_ssl_port = 993
+mail_user = example@example.com
+mail_password = your password
+log_level = DEBUG
+read_mail = UNSEEN
+[principal]
+a =
+b =
+
+[box_list]
+a = INBOX
